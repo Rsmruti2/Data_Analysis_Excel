@@ -4,6 +4,7 @@ Project Objective:- Vrinda store wants to create an annual sales report for 2023
 Data Cleaning : Review one-by-one column and clean the data as per requirements.
 
 Data Processing : Proceed the calculation required for visualization.
+
                 1. Age Group (=IF(E2>50,"Senior",IF(E2>=30,"Adult","Teenager")))
                 
                 2. MonthName (=TEXT(G2, "mmm"))
@@ -11,6 +12,7 @@ Data Processing : Proceed the calculation required for visualization.
 Data Analysis : Select the data set and apply the pivot and as per the client requirement choose the visuals.
 
 Sample Insights:
+
             1 Women are more likely to buy compared to men (~65%)
             
             2 Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35%)
